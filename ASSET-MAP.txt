@@ -1,0 +1,24 @@
+BRAND
+assets/brand/ap-logo.png — AP / Better body Better life logo, transparent, trimmed
+
+MEDIA
+assets/media/gym-floor.jpg — main hero and gym-floor view
+assets/media/trainer-strength.jpg — strength-machine training
+assets/media/group-training.jpg — group training
+assets/media/training-session.jpg — training moment
+assets/media/most-muscular-award.jpg — award photo with visible Most Muscular Overall, 1st Prize text
+assets/media/functional-training-zone.jpg — functional training turf area
+assets/media/competition-award.jpg — competition award moment
+assets/media/gym-celebration.jpg — gym celebration/team image
+assets/media/gym-exterior.jpg — outside signage
+assets/media/team-stage.jpg — group at event
+assets/media/bodybuilding-pose.jpg — bodybuilding pose
+assets/media/member-leg-training.jpg — member using leg machine
+assets/media/bodybuilding-competition.jpg — bodybuilding stage competition
+assets/media/equipment-detail.jpg — gym area extracted from the image portion of an uploaded review screenshot
+
+REVIEWS
+assets/reviews/*-source.jpg — supplied review screenshots retained for reference; not used as visible website cards
+
+REFERENCE
+assets/reference/owner-details-source.jpg — supplied owner details screenshot; not displayed on the live site
